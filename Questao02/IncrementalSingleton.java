@@ -1,3 +1,5 @@
+package Questao02;
+
 public class IncrementalSingleton {
 
     private static int count = 0;
